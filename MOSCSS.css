@@ -1,0 +1,61 @@
+body{
+    background-color:#fff;
+    font-family: 'Courier New', Courier, monospace  ;
+    margin: 0px;
+    padding: 0px;
+}
+.Heading{
+    text-align: center;
+    background-color: #0073a7;
+    font-size: xx-large;
+}
+.hero{
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    max-width: 70rem;
+    max-height: 10rem;
+}
+.hero img{
+    width: 25rem;
+    height:31.7rem;
+    float: right;
+}
+.Vid video{
+    align-items: center;
+    justify-content: center;
+    width: 45rem;
+    height: 30rem;
+    margin: 0;
+    padding: 0;
+    float: right;
+    max-height: 23rem;
+}
+.para{
+    margin-left:70px ;
+    text-align: center;
+    max-height: 0.001rem;
+} 
+.cal{
+    width: 25rem;
+    height: 17rem;
+}
+.contact{
+    width: 25rem;
+    height: 17rem;
+}
+.tech{
+    width: 25rem;
+    height: 17rem;
+}
+.scroll-up {
+    position: fixed;
+    right: 0.5%;
+    bottom: 3%;
+    cursor: pointer;
+  }
+  
+.up-arrow {
+    width: 3rem;
+    height: 3rem;
+  }
